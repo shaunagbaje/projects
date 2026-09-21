@@ -1,0 +1,380 @@
+E-ENAD-46		SRR12816718	characteristic	age	not available
+E-ENAD-46		SRR12816718	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816718	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816718	characteristic	individual	Wuhan_control_1
+E-ENAD-46		SRR12816718	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816718	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816718	characteristic	sex	not available
+E-ENAD-46		SRR12816718	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816718	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816718	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816719	characteristic	age	67 year
+E-ENAD-46		SRR12816719	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816719	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816719	characteristic	individual	Wuhan_case_9
+E-ENAD-46		SRR12816719	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816719	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816719	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-ENAD-46		SRR12816719	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816719	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816719	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816720	characteristic	age	78 year
+E-ENAD-46		SRR12816720	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816720	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816720	characteristic	individual	Wuhan_case_8
+E-ENAD-46		SRR12816720	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816720	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816720	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-ENAD-46		SRR12816720	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816720	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816720	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816721	characteristic	age	51 year
+E-ENAD-46		SRR12816721	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816721	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816721	characteristic	individual	Wuhan_case_7
+E-ENAD-46		SRR12816721	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816721	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816721	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-ENAD-46		SRR12816721	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816721	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816721	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816722	characteristic	age	62 year
+E-ENAD-46		SRR12816722	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816722	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816722	characteristic	individual	Wuhan_case_6
+E-ENAD-46		SRR12816722	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816722	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816722	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-ENAD-46		SRR12816722	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816722	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816722	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816723	characteristic	age	86 year
+E-ENAD-46		SRR12816723	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816723	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816723	characteristic	individual	Wuhan_case_5
+E-ENAD-46		SRR12816723	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816723	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816723	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-ENAD-46		SRR12816723	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816723	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816723	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816724	characteristic	age	83 year
+E-ENAD-46		SRR12816724	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816724	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816724	characteristic	individual	Wuhan_case_4
+E-ENAD-46		SRR12816724	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816724	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816724	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-ENAD-46		SRR12816724	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816724	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816724	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816725	characteristic	age	53 year
+E-ENAD-46		SRR12816725	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816725	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816725	characteristic	individual	Wuhan_case_3
+E-ENAD-46		SRR12816725	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816725	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816725	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-ENAD-46		SRR12816725	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816725	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816725	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816726	characteristic	age	not available
+E-ENAD-46		SRR12816726	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816726	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816726	characteristic	individual	Wuhan_control_10
+E-ENAD-46		SRR12816726	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816726	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816726	characteristic	sex	not available
+E-ENAD-46		SRR12816726	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816726	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816726	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816727	characteristic	age	not available
+E-ENAD-46		SRR12816727	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816727	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816727	characteristic	individual	Wuhan_control_9
+E-ENAD-46		SRR12816727	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816727	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816727	characteristic	sex	not available
+E-ENAD-46		SRR12816727	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816727	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816727	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816728	characteristic	age	not available
+E-ENAD-46		SRR12816728	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816728	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816728	characteristic	individual	Wuhan_control_8
+E-ENAD-46		SRR12816728	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816728	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816728	characteristic	sex	not available
+E-ENAD-46		SRR12816728	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816728	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816728	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816729	characteristic	age	not available
+E-ENAD-46		SRR12816729	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816729	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816729	characteristic	individual	Wuhan_control_7
+E-ENAD-46		SRR12816729	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816729	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816729	characteristic	sex	not available
+E-ENAD-46		SRR12816729	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816729	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816729	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816730	characteristic	age	not available
+E-ENAD-46		SRR12816730	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816730	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816730	characteristic	individual	Wuhan_control_6
+E-ENAD-46		SRR12816730	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816730	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816730	characteristic	sex	not available
+E-ENAD-46		SRR12816730	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816730	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816730	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816731	characteristic	age	not available
+E-ENAD-46		SRR12816731	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816731	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816731	characteristic	individual	Wuhan_control_5
+E-ENAD-46		SRR12816731	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816731	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816731	characteristic	sex	not available
+E-ENAD-46		SRR12816731	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816731	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816731	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816732	characteristic	age	not available
+E-ENAD-46		SRR12816732	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816732	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816732	characteristic	individual	Wuhan_control_4
+E-ENAD-46		SRR12816732	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816732	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816732	characteristic	sex	not available
+E-ENAD-46		SRR12816732	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816732	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816732	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816733	characteristic	age	not available
+E-ENAD-46		SRR12816733	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816733	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816733	characteristic	individual	Wuhan_control_3
+E-ENAD-46		SRR12816733	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816733	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816733	characteristic	sex	not available
+E-ENAD-46		SRR12816733	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816733	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816733	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816734	characteristic	age	not available
+E-ENAD-46		SRR12816734	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816734	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816734	characteristic	individual	Wuhan_control_2
+E-ENAD-46		SRR12816734	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816734	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816734	characteristic	sex	not available
+E-ENAD-46		SRR12816734	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816734	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12816734	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816735	characteristic	age	66 year
+E-ENAD-46		SRR12816735	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816735	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816735	characteristic	individual	Wuhan_case_2
+E-ENAD-46		SRR12816735	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816735	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816735	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-ENAD-46		SRR12816735	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816735	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816735	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816736	characteristic	age	70 year
+E-ENAD-46		SRR12816736	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12816736	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816736	characteristic	individual	Wuhan_case_1
+E-ENAD-46		SRR12816736	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12816736	characteristic	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12816736	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-ENAD-46		SRR12816736	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12816736	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12816736	factor	organism part	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-ENAD-46		SRR12951211	characteristic	age	not available
+E-ENAD-46		SRR12951211	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951211	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951211	characteristic	individual	Wuhan_control_1
+E-ENAD-46		SRR12951211	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951211	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951211	characteristic	sex	not available
+E-ENAD-46		SRR12951211	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951211	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951211	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951212	characteristic	age	66 year
+E-ENAD-46		SRR12951212	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951212	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951212	characteristic	individual	Wuhan_case_2
+E-ENAD-46		SRR12951212	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951212	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951212	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-ENAD-46		SRR12951212	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951212	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951212	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951213	characteristic	age	70 year
+E-ENAD-46		SRR12951213	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951213	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951213	characteristic	individual	Wuhan_case_1
+E-ENAD-46		SRR12951213	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951213	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951213	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-ENAD-46		SRR12951213	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951213	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951213	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951214	characteristic	age	67 year
+E-ENAD-46		SRR12951214	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951214	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951214	characteristic	individual	Wuhan_case_9
+E-ENAD-46		SRR12951214	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951214	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951214	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-ENAD-46		SRR12951214	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951214	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951214	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951215	characteristic	age	78 year
+E-ENAD-46		SRR12951215	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951215	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951215	characteristic	individual	Wuhan_case_8
+E-ENAD-46		SRR12951215	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951215	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951215	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-ENAD-46		SRR12951215	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951215	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951215	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951216	characteristic	age	51 year
+E-ENAD-46		SRR12951216	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951216	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951216	characteristic	individual	Wuhan_case_7
+E-ENAD-46		SRR12951216	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951216	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951216	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-ENAD-46		SRR12951216	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951216	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951216	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951217	characteristic	age	62 year
+E-ENAD-46		SRR12951217	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951217	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951217	characteristic	individual	Wuhan_case_6
+E-ENAD-46		SRR12951217	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951217	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951217	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-ENAD-46		SRR12951217	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951217	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951217	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951218	characteristic	age	86 year
+E-ENAD-46		SRR12951218	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951218	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951218	characteristic	individual	Wuhan_case_5
+E-ENAD-46		SRR12951218	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951218	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951218	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-ENAD-46		SRR12951218	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951218	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951218	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951219	characteristic	age	83 year
+E-ENAD-46		SRR12951219	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951219	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951219	characteristic	individual	Wuhan_case_4
+E-ENAD-46		SRR12951219	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951219	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951219	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-ENAD-46		SRR12951219	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951219	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951219	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951220	characteristic	age	53 year
+E-ENAD-46		SRR12951220	characteristic	biosource provider	Liang Liu Lab, Department of Forensic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951220	characteristic	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951220	characteristic	individual	Wuhan_case_3
+E-ENAD-46		SRR12951220	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951220	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951220	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-ENAD-46		SRR12951220	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951220	factor	disease	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096
+E-ENAD-46		SRR12951220	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951221	characteristic	age	not available
+E-ENAD-46		SRR12951221	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951221	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951221	characteristic	individual	Wuhan_control_10
+E-ENAD-46		SRR12951221	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951221	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951221	characteristic	sex	not available
+E-ENAD-46		SRR12951221	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951221	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951221	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951222	characteristic	age	not available
+E-ENAD-46		SRR12951222	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951222	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951222	characteristic	individual	Wuhan_control_9
+E-ENAD-46		SRR12951222	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951222	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951222	characteristic	sex	not available
+E-ENAD-46		SRR12951222	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951222	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951222	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951223	characteristic	age	not available
+E-ENAD-46		SRR12951223	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951223	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951223	characteristic	individual	Wuhan_control_8
+E-ENAD-46		SRR12951223	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951223	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951223	characteristic	sex	not available
+E-ENAD-46		SRR12951223	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951223	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951223	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951224	characteristic	age	not available
+E-ENAD-46		SRR12951224	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951224	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951224	characteristic	individual	Wuhan_control_7
+E-ENAD-46		SRR12951224	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951224	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951224	characteristic	sex	not available
+E-ENAD-46		SRR12951224	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951224	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951224	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951225	characteristic	age	not available
+E-ENAD-46		SRR12951225	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951225	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951225	characteristic	individual	Wuhan_control_6
+E-ENAD-46		SRR12951225	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951225	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951225	characteristic	sex	not available
+E-ENAD-46		SRR12951225	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951225	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951225	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951226	characteristic	age	not available
+E-ENAD-46		SRR12951226	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951226	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951226	characteristic	individual	Wuhan_control_5
+E-ENAD-46		SRR12951226	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951226	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951226	characteristic	sex	not available
+E-ENAD-46		SRR12951226	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951226	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951226	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951227	characteristic	age	not available
+E-ENAD-46		SRR12951227	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951227	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951227	characteristic	individual	Wuhan_control_4
+E-ENAD-46		SRR12951227	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951227	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951227	characteristic	sex	not available
+E-ENAD-46		SRR12951227	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951227	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951227	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951228	characteristic	age	not available
+E-ENAD-46		SRR12951228	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951228	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951228	characteristic	individual	Wuhan_control_3
+E-ENAD-46		SRR12951228	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951228	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951228	characteristic	sex	not available
+E-ENAD-46		SRR12951228	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951228	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951228	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951229	characteristic	age	not available
+E-ENAD-46		SRR12951229	characteristic	biosource provider	Guoping Wang Lab, Department of Pathology, School of Basic Medicine, Tongji Medical College, Huazhong University of Science and Technology
+E-ENAD-46		SRR12951229	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951229	characteristic	individual	Wuhan_control_2
+E-ENAD-46		SRR12951229	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-ENAD-46		SRR12951229	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-ENAD-46		SRR12951229	characteristic	sex	not available
+E-ENAD-46		SRR12951229	characteristic	specimen with known storage state	paraffin specimen	http://purl.obolibrary.org/obo/OBI_0000950
+E-ENAD-46		SRR12951229	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-ENAD-46		SRR12951229	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155

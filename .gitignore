@@ -1,3 +1,13 @@
 .DS_Store
 .ipynb_checkpoints/
 data/
+
+# Project 3 generated/system files
+03_covid_gene_expression/.DS_Store
+03_covid_gene_expression/data/.DS_Store
+03_covid_gene_expression/.ipynb_checkpoints/
+
+# Project 3 data files used in the analysis
+!03_covid_gene_expression/data/
+!03_covid_gene_expression/data/E-ENAD-46-raw-counts.tsv
+!03_covid_gene_expression/data/E-ENAD-46.condensed-sdrf.tsv
