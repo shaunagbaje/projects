@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project analyses a synthetic healthcare clinic dataset using Python, Excel and Tableau Public.
+This project analyses a synthetic healthcare clinic dataset using Python, Excel and Tableau Public to investigate operational activity, clinical services, patient utilisation and recorded payment values.
 
-The objective is to understand patterns in patient activity, appointments, clinical services and recorded payment values, and to develop an interactive business intelligence dashboard for operational analysis.
+The project demonstrates an end-to-end business intelligence workflow, from data validation and preparation through to KPI analysis and interactive dashboard development.
 
 ### Business Question
 
@@ -18,7 +18,9 @@ The objective is to understand patterns in patient activity, appointments, clini
 
 ## Dataset
 
-The dataset is the Healthcare Clinic Dataset from Kaggle and contains synthetic records covering:
+The project uses the **Healthcare Clinic Dataset** from Kaggle.
+
+The dataset contains synthetic records covering:
 
 - Patients
 - Appointments
@@ -65,7 +67,7 @@ Payment values are described as recorded payment values rather than revenue beca
 
 ## Dashboard
 
-The Tableau Public workbook contains three dashboards:
+The Tableau Public workbook contains three interactive dashboards.
 
 ### Executive Overview
 
@@ -75,6 +77,7 @@ Provides a high-level view of:
 - Monthly appointment activity
 - Clinic activity
 - Appointment status
+- Interactive clinic filtering
 
 ### Clinical Operations
 
@@ -85,6 +88,7 @@ Examines:
 - Treatment types
 - Treatment status
 - Top doctor appointment activity
+- Interactive appointment-status filtering
 
 ### Financial & Patient Profile
 
@@ -95,6 +99,7 @@ Examines:
 - Payment methods
 - Insurance coverage
 - Patient gender profile
+- Interactive payment-method filtering
 
 ### Tableau Public
 
@@ -102,13 +107,26 @@ Examines:
 
 ## Key Observations
 
-- Appointment activity is broadly consistent across the full months in the dataset, with March 2025 and March 2026 representing partial months.
-- Appointment statuses are distributed relatively evenly between pending, completed and cancelled appointments.
-- Activity is distributed across clinics, doctors and specialties in the synthetic dataset.
-- Treatment types have very similar appointment volumes and recorded treatment costs.
-- Recorded payment values are very similar across cash, card and insurance payment methods.
+- Appointment activity is broadly consistent across the full months in the dataset, while March 2025 and March 2026 represent partial months.
+- Appointment statuses are distributed relatively evenly across pending, completed and cancelled appointments.
+- Appointment activity is distributed across the 50 clinics and 500 doctors represented in the synthetic dataset.
+- The three treatment types have very similar appointment volumes and recorded treatment costs.
+- Recorded payment values are similar across cash, card and insurance payment methods.
 - Insurance coverage is approximately evenly split among patients with appointments.
-- The dataset contains synthetic distributions that should not be interpreted as evidence of real-world healthcare utilisation or financial behaviour.
+- The observed distributions are characteristics of this synthetic dataset and should not be interpreted as evidence of real-world healthcare utilisation, clinical outcomes or financial behaviour.
+
+## Skills Demonstrated
+
+- Data cleaning and validation
+- Relational data analysis
+- KPI development
+- Healthcare operations analysis
+- Exploratory data analysis
+- Excel-based analytical validation
+- Tableau dashboard development
+- Interactive business intelligence
+- Data storytelling
+- Analytical documentation
 
 ## Limitations
 
