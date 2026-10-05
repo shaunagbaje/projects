@@ -1,0 +1,8 @@
+# Raw Kaggle data
+data/raw/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
