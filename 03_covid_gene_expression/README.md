@@ -109,14 +109,6 @@ This indicates that the results were sensitive to the composition of the sample 
 - **Association versus causation:** Differential expression does not demonstrate that a gene causes disease or determines clinical outcomes.
 - **External validation:** The results were not independently validated in a separate dataset.
 
-## Project Structure
-
-```text
-03_covid_gene_expression/
-├── data/
-├── gene_expression_analysis.ipynb
-└── README.md
-
 ## How to Run
 
 1. Clone or download the repository.
@@ -135,3 +127,11 @@ This project examined gene-expression differences between lung tissue samples fr
 The sensitivity analysis showed that excluding one unusual sample reduced the number of genes meeting those thresholds by approximately 13.7%. This highlights the importance of sample quality and robust validation in gene-expression analysis.
 
 Overall, the project demonstrates a gene-expression analysis workflow covering metadata processing, expression filtering, exploratory analysis, differential-expression testing and sensitivity analysis. The findings should be interpreted cautiously because of the small sample size, bulk tissue composition, historical context and limitations of the statistical method.
+
+## Project Structure
+
+```text
+03_covid_gene_expression/
+├── data/
+├── gene_expression_analysis.ipynb
+└── README.md

@@ -86,14 +86,6 @@ Categorical analyses identified associations between CKD status and variables in
 - **External validity:** Findings from this dataset may not generalise to other patient populations or clinical settings.
 - **Scope:** This project focuses on statistical analysis rather than developing or validating a clinical prediction model.
 
-## Project Structure
-
-```text
-02_chronic_kidney_disease/
-├── data/
-├── chronic_kidney_disease_analysis.ipynb
-└── README.md
-
 ## How to Run
 
 1. Clone or download the repository.
@@ -111,3 +103,11 @@ This project used statistical analysis to examine clinical differences between C
 Haemoglobin, blood glucose and blood urea showed relatively large standardised differences between the groups, while categorical analyses identified associations involving hypertension and diabetes.
 
 The project demonstrates a structured clinical data analysis workflow, combining data cleaning, hypothesis testing, effect-size estimation and cautious interpretation. The results should be understood within the limitations of the dataset and should not be interpreted as causal evidence or a substitute for clinical assessment.
+
+## Project Structure
+
+```text
+02_chronic_kidney_disease/
+├── data/
+├── chronic_kidney_disease_analysis.ipynb
+└── README.md

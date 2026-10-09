@@ -59,15 +59,6 @@ The findings were interpreted as descriptive relationships rather than evidence 
 - **Association versus causation:** Statistical relationships do not establish causal effects.
 - **Scope:** This project focuses on descriptive and statistical analysis rather than developing a predictive machine-learning model.
 
-## Project Structure
-
-```text
-01_hospital_readmission/
-├── data/
-├── hospital_readmission_analysis.ipynb
-└── README.md
-```text
-
 ## How to Run
 
 1. Clone or download the repository.
@@ -83,3 +74,11 @@ Keep the project directory structure intact so that the notebook can locate its 
 This analysis explored hospital readmission patterns across 25,000 encounters. Previous inpatient utilisation showed the strongest descriptive relationship with readmission, while age, length of stay and medication changes were also associated with the outcome.
 
 The project demonstrates a structured approach to healthcare data analysis, including data inspection, exploratory analysis and cautious interpretation. The findings should be understood in the context of the dataset's limitations and should not be interpreted as causal evidence.
+
+## Project Structure
+
+```text
+01_hospital_readmission/
+├── data/
+├── hospital_readmission_analysis.ipynb
+└── README.md

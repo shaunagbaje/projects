@@ -138,6 +138,23 @@ These are model-based associations and should not be interpreted as causal effec
 - **External validation:** The models were evaluated on a held-out subset of the same historical dataset, not an independent hospital system or contemporary population.
 - **No causal inference:** Statistical tests and model explanations identify associations, not causes.
 
+## How to Run
+1. Clone or download the repository.
+2. Download the dataset from Kaggle.
+3. Place diabetic_data.csv in data/raw/.
+4. Install Python and the required libraries.
+5. Open analysis/diabetes_healthcare_analysis.ipynb in Jupyter Notebook.
+6. Run the notebook cells in order.
+
+The notebook uses relative file paths, so keep the project directory structure intact.
+
+## Conclusion
+This project demonstrates an end-to-end healthcare analytics workflow, from data cleaning and statistical analysis to feature engineering, predictive modelling and interpretation.
+
+Prior inpatient utilisation emerged as the strongest continuous-variable association in the exploratory analysis and the most important feature in the Random Forest model. However, both models achieved only modest predictive performance.
+
+The project highlights the importance of patient-level validation, appropriate evaluation metrics, effect-size interpretation and careful consideration of clinical limitations when applying machine learning to healthcare data.
+
 ## Project Structure
 
 ```text
@@ -160,20 +177,3 @@ These are model-based associations and should not be interpreted as causal effec
 │       └── diabetic_data.csv
 ├── .gitignore
 └── README.md
-
-## How to Run
-1. Clone or download the repository.
-2. Download the dataset from Kaggle.
-3. Place diabetic_data.csv in data/raw/.
-4. Install Python and the required libraries.
-5. Open analysis/diabetes_healthcare_analysis.ipynb in Jupyter Notebook.
-6. Run the notebook cells in order.
-
-The notebook uses relative file paths, so keep the project directory structure intact.
-
-## Conclusion
-This project demonstrates an end-to-end healthcare analytics workflow, from data cleaning and statistical analysis to feature engineering, predictive modelling and interpretation.
-
-Prior inpatient utilisation emerged as the strongest continuous-variable association in the exploratory analysis and the most important feature in the Random Forest model. However, both models achieved only modest predictive performance.
-
-The project highlights the importance of patient-level validation, appropriate evaluation metrics, effect-size interpretation and careful consideration of clinical limitations when applying machine learning to healthcare data.
